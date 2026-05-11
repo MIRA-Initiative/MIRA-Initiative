@@ -3,8 +3,8 @@
 M.I.R.A. Initiative is an Among Us revival project dedicated to preserving and building on the 2020 era of the game.
 Join this server to Download, See Sneak Peeks, and play with the community!
 
-Its currently not out yet but will be released very soon.
 Game Supports:
+
 - Windows (x64)
 - MacOS (M series mac only)
 - Android
